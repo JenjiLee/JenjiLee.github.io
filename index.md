@@ -12,8 +12,7 @@ Application Number: CN201910234202.5
 
 ## PROJECTS & RESEARCH EXPERIENCE
 ### Image Coloring System Based on Deep Learning（*Jan 2019 - Present*）
-*Project leader, Instructed by Yinfeng Li, Associate Professor, School of Electrical Engineering, Xidian
-University, China*
+*Project leader, Instructed by Yinfeng Li, Associate Professor, School of Electrical Engineering, Xidian University, China*
 - Searched relevant documents of the project and produced more than 90,000 Data sets for the Chinese market(the 1960s--1980s), restoring the texture of the old domestic films.
 - Designed a model based on the GANS, through data learning, achieved the purpose of coloring pictures in different scene accurately.
 
@@ -23,18 +22,21 @@ University, China*
 - Applied point cloud map to achieve coordinate data visualization, solved the problem in accurate value measurements, depending on the angle and length, truly realized the fully automatic operation.
 
 ### Heat Conduction of Heat-proof Clothing(*Sep 2018 - Nov 2018*)
-*leader, Instructed by Shuisheng Zhou, Professor, School of Mathematics and Statistics, Xidian University,
-China*
+*leader, Instructed by Shuisheng Zhou, Professor, School of Mathematics and Statistics, Xidian University, China*
 - Designed the mathematical model of heat-proof clothing with the partial differential equation learned.
 - Applied Matlab to solve the main parameters of the heat conduction model and draw an image of heat transfer.
 - Achieved the relative errors of 5% and 6% on the thickness of general fire-proof clothing.
 
 ### A System for Clothing Management based Deep Learning(*May 2018 - Jun 2019*)
-*Advised by Ning Lu, Assistant Professor, School of Electrical Engineering, Xidian University, China
+*Advised by Ning Lu, Assistant Professor, School of Electrical Engineering, Xidian University, China*
 - Developed an app based on CNN network for intelligent collocation, combining with the weather and user's emotion, which could assist individuals to match clothes.
 - Installed a microelectronic chip on the clothes to complete the collection of basic information such as the model number, material, and purchase time.
 - Applied RFID to send information to sensors on the closet and control data through the sensor and mobile APP.
-###Vision-based Automatic Driving Express Robot(*Apr 2017 - Aug 2018*)
+
+### Vision-based Automatic Driving Express Robot(*Apr 2017 - Aug 2018*)
+*Instructed by ShuYuan Yang, Professor, School of Artificial Intelligence, Xidian University, China*
+- Modified the original algorithm(based on the identification of ORB feature points, with high accuracy and high efficiency) .
+- Increased the map saving and loading functions, enables it more suitable for practical application scenarios.
 
 ## EXTRACURRICULAR ACTIVITIES
 ###Leaded Classmates to Explore School Landforms with UAV(*Feb 2019 - Apr 2019*) 
