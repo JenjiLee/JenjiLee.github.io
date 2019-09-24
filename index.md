@@ -39,24 +39,24 @@ Application Number: CN201910234202.5
 - Increased the map saving and loading functions, enables it more suitable for practical application scenarios.
 
 ## EXTRACURRICULAR ACTIVITIES
-###Leaded Classmates to Explore School Landforms with UAV(*Feb 2019 - Apr 2019*) 
+### Leaded Classmates to Explore School Landforms with UAV(*Feb 2019 - Apr 2019*) 
 
 Utilized DJ Mavic2 to take a plethora of pictures of school in different time to analyze the landform.
 
-###Participated in NUS AI Technology Spring School(*Jan 2018 - Feb 2018*) 
+### Participated in NUS AI Technology Spring School(*Jan 2018 - Feb 2018*) 
 
 Attended in AI lecture in NUS and Completed the tasks assigned by the teacher in class.
 
-###Volunteered in photographing and reporting in Robomaster(*2017 Jun 2017 - Aug 2017*)
+### Volunteered in photographing and reporting in Robomaster(*2017 Jun 2017 - Aug 2017*)
 
 Operated a website about the status of the iRobot team and reported the facts on the spot.
 
 ## SKILLS
--**Programming: C, C++, Python, MATLAB**
+- **Programming: C, C++, Python, MATLAB**
 
--**Simulation: Multisim, VISSIM**
+- **Simulation: Multisim, VISSIM**
 
--**Others: Latex, Visio, SPSS**
+- **Others: Latex, Visio, SPSS**
 
 ## EDUCATION 
 ### Xidian University (XDU), Xi’an, Shaanxi, China
