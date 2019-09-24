@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+## HONORS & AWARDS
+-Nation Scholarship(*Sep 2019*)
+-First prize in College Students Internet& innovation and Entrepreneurship Competition, Shaanxi(*Jul 2019*)
+-First Prize in Chinese Undergraduate Computer Design Contest, China(*Jul 2019*)
+-First Prize of Shaanxi province in National College Students Mathematical Modeling Contest(*Nov 2018*)
+-National Encouragement Scholarship(*Sep 2018*)
+-First Prize in Lenovo Intelligent Eco-University Innovation Competition 2017, Northwest region(*Apr 2017*)
 
-You can use the [editor on GitHub](https://github.com/jasmineqing21/YuqingLi/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## PATENT
+-Huang, M.; Tsuen,Y.; LI, Y.;Lu,W.; Chen, M., Image Coloring System Based on Deep Learning, Chinese Invention Patent.
+Application Number: CN201910234202.5
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## PROJECTS & RESEARCH EXPERIENCE
+### Image Coloring System Based on Deep Learning（*Jan 2019 - Present*）
+*Project leader, Instructed by Yinfeng Li, Associate Professor, School of Electrical Engineering, Xidian
+University, China*
+-Searched relevant documents of the project and produced more than 90,000 Data sets for the Chinese market(the 1960s--1980s), restoring the texture of the old domestic films.
+-Designed a model based on the GANS, through data learning, achieved the purpose of coloring pictures in different scene accurately.
 
-### Markdown
+### Intelligent Tableware Recycling Robot Arm（*Jan 2019 - Apr 2019*）
+*Advised by Guangzhong Yang, Professor, School of The Hamlyn Centre, Imperial College London, England*
+-Utilized the mechanism of self-perceived coordinates, directly obtained the position information of the robot arm based on computer vision and machine learning, which reduced the commissioning cost of the arm.
+-Applied point cloud map to achieve coordinate data visualization, solved the problem in accurate value measurements, depending on the angle and length, truly realized the fully automatic operation.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Heat Conduction of Heat-proof Clothing(*Sep 2018 - Nov 2018*)
+*leader, Instructed by Shuisheng Zhou, Professor, School of Mathematics and Statistics, Xidian University,
+China*
+-Designed the mathematical model of heat-proof clothing with the partial differential equation learned.
+-Applied Matlab to solve the main parameters of the heat conduction model and draw an image of heat transfer.
+-Achieved the relative errors of 5% and 6% on the thickness of general fire-proof clothing.
 
-```markdown
-Syntax highlighted code block
+### A System for Clothing Management based Deep Learning(*May 2018 - Jun 2019*)
+*Advised by Ning Lu, Assistant Professor, School of Electrical Engineering, Xidian University, China
+-Developed an app based on CNN network for intelligent collocation, combining with the weather and user's emotion, which could assist individuals to match clothes.
+-Installed a microelectronic chip on the clothes to complete the collection of basic information such as the model number, material, and purchase time.
+-Applied RFID to send information to sensors on the closet and control data through the sensor and mobile APP.
+###Vision-based Automatic Driving Express Robot(*Apr 2017 - Aug 2018*)
 
-# Header 1
-## Header 2
-### Header 3
+## EXTRACURRICULAR ACTIVITIES
+###Leaded Classmates to Explore School Landforms with UAV(*Feb 2019 - Apr 2019*) 
 
-- Bulleted
-- List
+Utilized DJ Mavic2 to take a plethora of pictures of school in different time to analyze the landform.
 
-1. Numbered
-2. List
+###Participated in NUS AI Technology Spring School(*Jan 2018 - Feb 2018*) 
 
-**Bold** and _Italic_ and `Code` text
+Attended in AI lecture in NUS and Completed the tasks assigned by the teacher in class.
 
-[Link](url) and ![Image](src)
-```
+###Volunteered in photographing and reporting in Robomaster(*2017 Jun 2017 - Aug 2017*)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Operated a website about the status of the iRobot team and reported the facts on the spot.
 
-### Jekyll Themes
+## SKILLS
+-**Programming: C, C++, Python, MATLAB**
+-**Simulation: Multisim, VISSIM**
+-**Others: Latex, Visio, SPSS**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jasmineqing21/YuqingLi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## EDUCATION 
+### Xidian University (XDU), Xi’an, Shaanxi, China
+B.Eng. in School of Electronic Engineering
 
-### Support or Contact
+Major in Remote Sensing Science and Technology
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
